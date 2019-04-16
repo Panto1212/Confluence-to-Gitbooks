@@ -1,4 +1,4 @@
-#Migrating From Confluence to Github
+# Migrating From Confluence to Github
 
 **[Mifos](https://mifos.org/){.external-link}** is a US-based non-profit
 initiative that stewards the global community that builds the Mifos X
