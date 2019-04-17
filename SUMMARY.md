@@ -1,6 +1,5 @@
-# Summary
+# Table of contents
 
-* [Migrating From Confluence to Gitbooks](./README.md)
-    * [Timeline](./Timeline.md)
+* [Migrating From Confluence to Gitbooks](README.md)
+* [Timeline](timeline.md)
 
-    
